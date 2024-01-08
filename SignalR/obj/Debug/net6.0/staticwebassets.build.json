@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "1HIIy7I9JWf+IpPAFcW6OBNMLm0uRz4Jx/3SZphPxrU=",
+  "Source": "SignalR",
+  "BasePath": "_content/SignalR",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SignalR\\wwwroot",
+      "Source": "SignalR",
+      "ContentRoot": "C:\\Users\\Елизавета\\OneDrive\\Рабочий стол\\ипп\\apilab4-main\\SignalR\\wwwroot\\",
+      "BasePath": "_content/SignalR",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Елизавета\\OneDrive\\Рабочий стол\\ипп\\apilab4-main\\SignalR\\wwwroot\\index.html",
+      "SourceId": "SignalR",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Елизавета\\OneDrive\\Рабочий стол\\ипп\\apilab4-main\\SignalR\\wwwroot\\",
+      "BasePath": "_content/SignalR",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
